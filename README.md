@@ -17,6 +17,7 @@ Run the command "npm run dev".
 
 #### Frontend Web:
 1. React
+2. React Router
 
 To run the project, follow the steps below:
 Install all node dependencies running the command "npm install" in the frontend-app directory.
